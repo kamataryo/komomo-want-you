@@ -97,7 +97,9 @@ img.komomo {
   text-align: left;
   font-size: 0.7em;
 }
-
+.cat-log-item {
+  margin: 2px auto;
+}
 /*.image-items {
   display: flex;
 }
