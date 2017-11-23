@@ -1,0 +1,24 @@
+{
+  "name": "komomo-want-you",
+  "version": "0.0.0",
+  "description": "ネコの里親募集サイト",
+  "main": "index.html",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamataryo/komomo-want-you.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamataryo/komomo-want-you/issues"
+  },
+  "homepage": "https://github.com/kamataryo/komomo-want-you#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
